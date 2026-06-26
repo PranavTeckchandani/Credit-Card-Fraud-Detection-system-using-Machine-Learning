@@ -1,0 +1,2 @@
+# Credit-Card-Fraud-Detection-system-using-Machine-Learning
+Developed a Credit Card Fraud Detection system using Machine Learning and Logistic Regression to classify transactions as genuine or fraudulent. The project includes data preprocessing, EDA, handling class imbalance, model training, prediction, and accuracy evaluation using Python, Pandas, NumPy, and Scikit-learn on a real-world dataset.   
